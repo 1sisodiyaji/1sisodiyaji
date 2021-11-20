@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1sisodiyaji
 - 👀 I’m interested in c language
 - 🌱 I’m currently learning c advance.
-- 💞️ I’m looking to collaborate on internship regarding this ea.
+- 💞️ I’m looking to collaborate on internship regarding this era.
 - 📫 you can reach me through my instagram id golu_singh_sisodiya,
 
 <!---
