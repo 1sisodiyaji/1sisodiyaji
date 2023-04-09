@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1sisodiyaji
-- 👀 I’m interested in HTML<CSS<JAVASCRIPT , C,JAVA language
+- 👀 I’m interested in HTML<CSS<JAVASCRIPT , C ,JAVA language
 - 🌱 I’m currently learning DSA on java ,as well as sql .
 - 💞️ I’m looking to collaborate on internship regarding this era.
 - 📫 you can reach me through my instagram ID - golu_singh_sisodiya,
